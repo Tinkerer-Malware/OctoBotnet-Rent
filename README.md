@@ -22,10 +22,8 @@ RUS;
 1 Месяц, Цена; 500$ (500 Долларов) 
 Возможности;
 - Пуш Сообщение 
--Accesibility Service-
 - HVNC 
 - VNC
-----------------------
 - Смс перехватчик
 - Авто-комманды (Блокировка Пушей Сообщений, добавить домена С&C, Желаемые приложения, Удаление приложений, и другое)
 - Отправка СМС
@@ -49,10 +47,8 @@ Rent OctoBot
 1 Month, Price; 500$ (500 Dollars)
 Features;
 - Push Message 
--Accesibility Service-
 - HVNC 
 - VNC
-----------------------
 - SMS Interceptor
 - Auto-commands (Block Message Push, Add C&C Domain, Desired Applications, Uninstall Applications, and more)
 - Send SMS

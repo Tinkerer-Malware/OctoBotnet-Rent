@@ -5,6 +5,10 @@
 # octobotnet
 # octobanking
 # octopanel
+# Seller
+# Malware
+# RentMalware
+# RentBotnet
 
 #OctoBotnet-Rent
 #Octo
@@ -13,7 +17,10 @@
 #octobotnet
 #octobanking
 #octopanel
-
+#Seller
+#Malware
+#RentMalware
+#RentBotnet
 
 
 RUS;
